@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{width:450px;
+    margin-top: 65px}
+
+.botao{background: rgb(0, 3, 170); padding:12px; 
+    border-radius: 24px; border:none; color:white;
+font-weight: bolder; outline: none; width:170px; font-size: 16px; cursor: pointer}
+
+.botao:active{background: rgb(61, 61, 93)}
+
+.textoFrase{font-style: italic;
+color: #dd7b22;}
